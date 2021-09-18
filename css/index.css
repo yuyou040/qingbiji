@@ -1,0 +1,204 @@
+		body{
+		  background-color: #363636;
+	  }
+	  #heard{
+	  	background: url("") repeat-x transparent
+						width: 100%;
+						min-height: 60px;
+						margin-top: -10px;
+						margin-left: -20px;
+						margin-right: -8px;
+						position: relative;
+						background: linear-gradient(to bottom,#4584b9,#2e70a5);
+	  }
+       
+	.title_1{
+		margin: 0;
+		padding: 0;
+		height:auto;
+		position: absolute;
+	}
+	.title_1 a{
+		color: #FFFFFF;
+		text-decoration: none;
+		
+	}
+	.title_1 #shouw img{
+		height: 43px;
+		margin: -1.25rem 0.625rem;
+		text-align: center;
+		padding: 0 0 10px 50px;
+	  }
+	  .title_1 ul{
+	  	
+	  	margin-left:-10px;
+	  	margin-top: -5px;
+	  width: 100%;
+	  
+	  }
+     .title_1 ul li{
+ 		line-height: 65px ;
+ 		padding-left: 50px;
+ 		
+     	float: left;
+		font-size: 1rem;
+     	overflow: hidden;
+		background: linear-gradient(to bottom,#4584b9,#2e70a5);
+     }	
+    .beijing {
+    	background: url("") repeat-x transparent
+    		width: 100%;
+						min-height: 900px;
+						margin-top: 50px;
+						margin-left: -20px;
+						margin-right: -8px;
+						position: relative;
+						background:url(../ui/zhizhang02.png);
+    }
+ .uio{
+ 	margin-left: 100px;
+ 	margin-top: 20px;
+ }
+ .uio img{
+	margin-left: 45px;
+ 	margin-top: 30px;
+ 	text-align: center;
+ 	float: left;
+ 	height: 300px;
+ 	width: 650px;
+ 	box-shadow: 0 0 0 8px #d4d4d4; 
+ }
+#biaodan{
+	  float:right;
+	margin-top:30px;
+	margin-right:130px ;
+	padding-left: 20px;
+	height:auto;
+	display: inline-block;
+}
+#biaodan from{
+	display: block;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+.lianjie{
+	width: 250px;
+	margin-bottom: -40px;
+}
+.lianjie ul{
+	margin-left: -45px;
+}
+#biaodan .lianjie ul li{
+	text-decoration: none;
+	margin:0;
+	padding:0;
+	height:auto;
+	overflow: hidden;
+	display: inline-block;
+}
+#center_bottom{
+	 float:left;
+	margin-left:120px;
+	padding:0;
+	height:auto;
+	margin-top: 80px;
+	padding-left: 110px;
+	display: inline-block
+}
+#center_bottom ul li{
+	margin:0;
+	padding:0;
+	height:auto;
+	overflow: hidden;
+	display: inline-block
+}
+.imgg{
+	float: left;
+	margin-right: 120px;
+	margin-left:-82px ;
+	margin-top: -20px;
+	background: linear-gradient(to bottom,#6c6c6c,#3a3a3a);
+}
+.imgg a{
+	text-align: center;
+	 padding-right: 50px;
+		color: #ffffff;
+     	overflow: hidden;
+}
+.imgg img{
+	width: 50px;
+	height: 50px;
+	padding-right: 20px;
+	padding-top:10px ;
+}
+.qwe{
+	float: left;
+	margin-top: 20px;
+	margin-left:-120px ;
+}
+.qwe img{
+	box-shadow: 0px 10px 10px #888888;/*图片投影 第一个参数是右侧 第二个参数是下面  第三个参数是模糊度  第四个指定的是颜色*/
+	padding-right: 10px;
+	width: 180px;
+	height: 140px;
+}
+.asd{
+	float: left;
+	margin-top: 10px;
+	margin-left: -95px
+}
+.asd img{
+	float: left;
+	padding-right: 60px;
+	width: 100px;
+	height: 40px;
+}
+.zhuce input{
+	color: #FFFFFF;
+	border-radius:4px;
+	border-color:#6C6C6C ;
+	border-width:2px ;
+ box-shadow: 0 0 0 8px #d4d4d4; /*box-shadow最多的是前面3个参数，水平/垂直偏移以及模糊大小 名外扩展，可以把投影范围扩大，
+ 当然，扩大的区域是实色区域。我们就可以利用这一特性，模拟实现不影响元素占据尺寸的outline实色边框效果*/
+	height: 70px;
+	width: 230px;
+	background: linear-gradient(to bottom,#4584b9,#2e70a5);
+	margin-bottom: 20px;
+}
+.text-uid input{
+	height: 40px;
+	width: 200px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+.text-uid{
+	margin-bottom: 20px;
+}
+.login input{
+	margin-top: 15px;
+	margin-bottom: -3px;
+	margin-left: -3px;
+	width: 230px;
+	height: 45px;
+	border-radius:4px;
+	border-color:#C0C0C0;
+	border-width:1px ;
+	box-shadow: 0 0 0 6px #d4d4d4;
+
+}
+.lianjie span{
+	font-size: 15px;
+}
+
+span{
+	font-size: 5px;
+	padding-right:90px;
+}
+#bottom span{
+	color: #545454;
+}
+#bottom a{
+	color:  #545454;
+	font-size: 5px;
+}
